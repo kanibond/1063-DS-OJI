@@ -1,3 +1,12 @@
+/* @ProgramName: Program-2
+* @Author: Kanayo oji
+* @Description:
+*This program creates class templates for images stored as rgb values in a space delimited file format.
+* @Course: 1063 Data Structures
+* @Semester: Spring 2017
+* @Date: 02 12 2017
+*/
+
 #include <iostream>
 #include <fstream>
 #include <string>
